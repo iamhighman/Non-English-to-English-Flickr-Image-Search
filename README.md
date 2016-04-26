@@ -1,3 +1,2 @@
-Created by Codrops
-
-Please read about our license: http://tympanus.net/codrops/licensing/
+We proposed an interactive system that supported Non-English to English Flickr Image Search. This system integrated the Flickr API and Google Translate services. Users could input non-English queries into this system and get the English based image contents from Flickr. The search result will display in an interactive user interface that provide a better user experience. We also included a system evalua-
+tion from 3 different languages based on native speakers who study in U.S. The result indicated the translation accuracy is affected by the term properties.
